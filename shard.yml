@@ -1,0 +1,13 @@
+name: crystal-merge-benchmark
+version: 0.1.0
+
+authors:
+  - your-name-here <megatux@gmail.com>
+
+targets:
+  crystal-merge-benchmark:
+    main: src/crystal-merge-benchmark.cr
+
+crystal: 1.5.1
+
+license: MIT
