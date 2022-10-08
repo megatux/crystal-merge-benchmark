@@ -1,18 +1,19 @@
 # crystal-merge-benchmark
 
-TODO: Write a description here
+Crystal version of simple benchmark of merging algorithms programs found [here](https://github.com/Armando284/nodejs-vs-go-sorting-algorithms/)
 
 ## Installation
 
-TODO: Write installation instructions here
+Install Crystal.
+Compile & run.
 
 ## Usage
 
-TODO: Write usage instructions here
+Put a file called `input.json` in the directory you run the program before run it.
 
 ## Development
 
-TODO: Write development instructions here
+Nothing relevant.
 
 ## Contributing
 
@@ -24,4 +25,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [megatux](https://github.com/megatux) - creator and maintainer
